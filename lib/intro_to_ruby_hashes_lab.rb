@@ -2,7 +2,7 @@ def my_hash_creator(key, value)
   array = {
     :key => value
   }
-  if 
+  if key 
 end
 
 def read_from_hash(hash, key)
