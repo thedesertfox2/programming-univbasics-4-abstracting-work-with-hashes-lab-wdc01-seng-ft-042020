@@ -1,8 +1,7 @@
 def my_hash_creator(key, value)
   array = {
-    :key => value
+    :name => 'Grace Hopper'
   }
-  if 
 end
 
 def read_from_hash(hash, key)
